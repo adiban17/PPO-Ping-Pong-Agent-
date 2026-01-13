@@ -107,4 +107,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Aditya Banerjee**
 * [LinkedIn](https://www.linkedin.com/in/aditya-banerjee-08117b310/)
 * [GitHub](https://github.com/adiban17)
-* [Medium](https://medium.com/@YOUR_MEDIUM_USERNAME)
+* [Medium](https://medium.com/https://medium.com/@adityabanerjee171/reinforcement-learning-training-a-ppo-agent-to-play-ping-pong-with-curriculum-learning-1693c2370f97)
